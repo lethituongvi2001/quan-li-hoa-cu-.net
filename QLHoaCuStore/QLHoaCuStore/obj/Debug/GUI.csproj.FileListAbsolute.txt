@@ -1,0 +1,15 @@
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.frmAdmin.resources
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.frmDangKy.resources
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.frmDangNhap.resources
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.frmDoiMK.resources
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.frmHoaCu.resources
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.frmKhachHang.resources
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.frmMain.resources
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.frmNcc.resources
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.frmNhanVien.resources
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.frmPhanLoai.resources
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\QLHoaCuStore.Properties.Resources.resources
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\QLHoaCuStore.exe.licenses
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\QLHoaCuStore\obj\Debug\GUI.csproj.CoreCompileInputs.cache

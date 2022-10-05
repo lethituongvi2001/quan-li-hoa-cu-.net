@@ -1,0 +1,9 @@
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\DAO\bin\Debug\DAO.dll
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\DAO\bin\Debug\DAO.pdb
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\DAO\bin\Debug\DTO.dll
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\DAO\bin\Debug\DTO.pdb
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\DAO\obj\Debug\DAO.dll
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\DAO\obj\Debug\DAO.pdb

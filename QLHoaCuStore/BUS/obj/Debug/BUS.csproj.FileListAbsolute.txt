@@ -1,0 +1,11 @@
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\BUS\bin\Debug\BUS.dll
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\BUS\bin\Debug\BUS.pdb
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\BUS\bin\Debug\DAO.dll
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\BUS\bin\Debug\DTO.dll
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\BUS\bin\Debug\DAO.pdb
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\BUS\bin\Debug\DTO.pdb
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\BUS\obj\Debug\BUS.dll
+D:\Lethituongvinam3\LTQLCoVi\QLHoaCuStore\BUS\obj\Debug\BUS.pdb
